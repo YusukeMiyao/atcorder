@@ -1,7 +1,7 @@
 function Main(input) {
     const [A, B, W] = input.split(' ').map(Number)
     for (let i = 0; i<=1000000; i++){
-        if(A*i)
+        if(A*i){}
     }
     // let upper=Math.floor(1000*W/A)
     // let lower=Math.ceil(1000*W/B)
